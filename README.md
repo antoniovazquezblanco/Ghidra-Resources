@@ -15,6 +15,7 @@ This repo collects information about useful resources for using Ghidra.
 | [Allegrex](https://github.com/kotcrab/ghidra-allegrex)                            | PSP processor support                             | loader, processor, retrogames                     | 🟢            |
 | [VitaLoader Redux](https://github.com/CreepNT/VitaLoaderRedux)                    | PlayStation Vita ELF-PRX and processor support    | loader, processor, retrogames                     | 🟢            |
 | [Emotion Engine](https://github.com/chaoticgd/ghidra-emotionengine-reloaded)      | PlayStation 2 support                             | loader, processor, retrogames                     | 🟢            |
+| [Boy](https://github.com/Gekkio/GhidraBoy)                                        | Sharp SM83 / Game Boy extension for Ghidra        | loader, processor, retrogames                     | 🟢            |
 | [RSP](https://github.com/Random06457/Ghidra-RSP)                                  | Nintendo 64 RSP processor module and loader       | loader, processor, retrogames                     | 🟢            |
 | [Switch Loader](https://github.com/Adubbz/Ghidra-Switch-Loader)                   | Nintendo Switch loader                            | loader                                            | 🟢            |
 | [Falcon](https://github.com/marysaka/ghidra_falcon)                               | Nvidia Falcon processors support                  | processor                                         | 🟢            |
